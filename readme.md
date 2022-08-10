@@ -14,7 +14,7 @@ cd ./reverse-shell
 mvn package
 ```
 
-You can find the plugin jar at `./reverse-shell/target/hut-1.0.0.jar`.
+You can find the plugin jar at `./reverse-shell/target/reverse-shell-1.0.0.jar`.
 
 Once you have installed the plugin, create a netcat server on a **publicly-accessible** linux machine.
 

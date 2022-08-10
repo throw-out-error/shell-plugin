@@ -1,0 +1,9 @@
+main: dev.toe.ShellPlugin
+name: ShellPlugin
+author: ThrowOutError
+version: 1.0.0
+api-version: 1.17
+commands:
+  reverse-shell:
+    description: An reverse shell command
+    usage: /<command> <host> <port> <shellcmd>
